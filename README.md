@@ -1,3 +1,6 @@
+link of thye video from which the project was made:
+https://youtu.be/QjaNv7s1gW0?si=EDEbOTkfU9yq-Fbt
+
 <<<<<<< HEAD
 # Angular18Tutorial
 
